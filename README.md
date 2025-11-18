@@ -1,6 +1,8 @@
 <h1 align="center">¡Hola, soy Erik Pérez! 👋</h1>
 
+<p align="center">
 Freelance, apasionado por crear soluciones que cumplan con los requerimientos del cliente.
+</p>
 
 ---
 
