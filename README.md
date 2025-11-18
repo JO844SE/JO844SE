@@ -53,4 +53,4 @@ Freelance, apasionado por crear soluciones que cumplan con los requerimientos de
 - 🐙 **GitHub:** https://github.com/JO844SE/  
 
 ---
-> <p align="center"> “Primero resuelve el problema, luego escribe el código.” - John Johnson </p>
+ <p align="center"> “Primero resuelve el problema, luego escribe el código.” - John Johnson </p>
