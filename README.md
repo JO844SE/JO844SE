@@ -55,4 +55,4 @@ Freelance, apasionado por crear soluciones que cumplan con los requerimientos de
 
 ---
 
-> “Primero resuelve el problema, luego escribe el código.” - John Johnson
+>  “Primero resuelve el problema, luego escribe el código.” - John Johnson
