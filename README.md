@@ -50,8 +50,8 @@ Freelance, apasionado por crear soluciones que cumplan con los requerimientos de
 - 🐙 **GitHub:** https://github.com/JO844SE/  
 
 ---
-## ⭐ Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JO844SE&show_icons=true)
+## ⭐ Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JO844SE)
 
 ---
 
