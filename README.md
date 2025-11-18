@@ -53,9 +53,4 @@ Freelance, apasionado por crear soluciones que cumplan con los requerimientos de
 - 🐙 **GitHub:** https://github.com/JO844SE/  
 
 ---
-## ⭐ Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JO844SE)
-
----
-
->  “Primero resuelve el problema, luego escribe el código.” - John Johnson
+> <p align="center"> “Primero resuelve el problema, luego escribe el código.” - John Johnson </p>
