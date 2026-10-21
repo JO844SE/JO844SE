@@ -27,6 +27,7 @@ Freelance, apasionado por crear soluciones que cumplan con los requerimientos de
 ## 👨‍💻 Sobre mí
 
 - 💻 Ingeniero en Sistemas de Información y Ciencias de la Computación.
+- 🛡️ Magíster Artium en Seguridad Informática
 - 🧰 Experiencia como freelance
 - 🚀 Mentalidad de mejora continua.
 
